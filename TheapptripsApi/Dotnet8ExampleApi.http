@@ -1,0 +1,8 @@
+@Dotnet8ExampleApi_HostAddress = http://localhost:5241
+
+//unedited - i prefer to use swagger UI
+
+GET {{Dotnet8ExampleApi_HostAddress}}
+Accept: application/json
+
+###
